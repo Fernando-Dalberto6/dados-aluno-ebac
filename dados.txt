@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Fernando
+-Profissão: Temporariamente no ramo logístico, pretendo voltar ao T.I o mais rápido possível
+-Cidade: Osasco
+-O que faz nas horas vaga: Musculação e leitura
+-Feedback sobre o curso Qualidade de Software: Excelente
+-Feedback sobre a plataforma de estudo da EBAC: Ótima, muito fácil de usar
 
 Obrigado!!!
 
